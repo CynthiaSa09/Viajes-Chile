@@ -38,9 +38,14 @@ a.navbar-link {
     color:white;
 }
 
+.tarjet {
+    width: 90%;
+    margin-left: 6%;
+}
+
 .card {
     color: #ffffff;
-   height: 470px;
+   white-space: normal;
 }
 
 
@@ -48,28 +53,16 @@ a.navbar-link {
     height: 200px;  
 }
 
-.card-deck {
-    font-weight: 500;
-}
-
 .display-5 {
-    padding-top: 90px;
+    padding-top: 140px;
 }
 
 .we {
-    padding-top: 10px;
+    padding-top: 50px;
 }
 
-.icons {
-    background-color: teal;
-}
 
 footer {
-    height: 75px;
+    height: 30px;
+    padding: 40px;
 }
-
-.fab {
-    margin-top: 1%;
-}
-
-
