@@ -1,6 +1,7 @@
 html body {
     font-family: "Opens Sans", sans-serif;
     background-color: #000000;
+    color: white;
 }
 
 header {
@@ -12,3 +13,35 @@ nav {
     font-family: "Opens Sans",sans-serif;
 }
 
+hr{
+    margin-top: 7.5px;
+    margin-bottom: 10px;
+    height: 10pt;
+    background-color: #31708f;
+}
+
+
+a.navbar-brand {
+    width: 40px;
+    height: 50px;
+    font-size: 25px;
+    font-family: "Opens Sans", sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+a.navbar-link {
+    font-size: 16px;
+    font-family: "Opens Sans", sans-serif;
+    font-weight: normal;
+    color:white;
+}
+
+.card {
+    color: #ffffff;
+}
+
+.card-img-top {
+   height: 200px;
+}
