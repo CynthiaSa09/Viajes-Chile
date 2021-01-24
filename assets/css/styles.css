@@ -40,12 +40,22 @@ a.navbar-link {
 
 .card {
     color: #ffffff;
-    padding: 0.0;
+   height: 500px;
+   margin-bottom:auto;
    
 }
 
 
 .card-img-top {
-    height: 200px;
-   
+    height: 200px;  
+}
+
+.card-deck {
+    margin-bottom: auto;
+    margin-top: auto;
+    font-weight: 500;
+}
+
+.display-5 {
+    padding-top: 90px;
 }
