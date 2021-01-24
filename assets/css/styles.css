@@ -40,9 +40,7 @@ a.navbar-link {
 
 .card {
     color: #ffffff;
-   height: 500px;
-   margin-bottom:auto;
-   
+   height: 470px;
 }
 
 
@@ -51,11 +49,27 @@ a.navbar-link {
 }
 
 .card-deck {
-    margin-bottom: auto;
-    margin-top: auto;
     font-weight: 500;
 }
 
 .display-5 {
     padding-top: 90px;
 }
+
+.we {
+    padding-top: 10px;
+}
+
+.icons {
+    background-color: teal;
+}
+
+footer {
+    height: 75px;
+}
+
+.fab {
+    margin-top: 1%;
+}
+
+
