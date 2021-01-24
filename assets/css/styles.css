@@ -40,8 +40,12 @@ a.navbar-link {
 
 .card {
     color: #ffffff;
+    padding: 0.0;
+   
 }
 
+
 .card-img-top {
-   height: 200px;
+    height: 200px;
+   
 }
